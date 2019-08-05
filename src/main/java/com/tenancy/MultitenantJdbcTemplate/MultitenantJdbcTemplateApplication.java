@@ -2,8 +2,8 @@ package com.tenancy.MultitenantJdbcTemplate;
 
 import javax.sql.DataSource;
 
-import com.tenancy.MultitenantJdbcTemplate.TenantDataSources.DataSourceMap;
-import com.tenancy.MultitenantJdbcTemplate.TenantInterceptorRoutingDataSource.CustomRoutingDataSource;
+import com.tenancy.MultitenantJdbcTemplate.MultiTenantSettings.TenantDataSources.DataSourceMap;
+import com.tenancy.MultitenantJdbcTemplate.MultiTenantSettings.TenantInterceptorRoutingDataSource.CustomRoutingDataSource;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

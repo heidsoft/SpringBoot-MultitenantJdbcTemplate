@@ -1,4 +1,4 @@
-package com.tenancy.MultitenantJdbcTemplate.TenantDataSources;
+package com.tenancy.MultitenantJdbcTemplate.MultiTenantSettings.TenantDataSources;
 
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import java.util.HashMap;

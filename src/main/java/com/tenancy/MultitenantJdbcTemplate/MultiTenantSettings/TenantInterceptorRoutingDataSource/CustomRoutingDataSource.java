@@ -1,4 +1,4 @@
-package com.tenancy.MultitenantJdbcTemplate.TenantInterceptorRoutingDataSource;
+package com.tenancy.MultitenantJdbcTemplate.MultiTenantSettings.TenantInterceptorRoutingDataSource;
 
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 import org.springframework.web.context.request.RequestContextHolder;
